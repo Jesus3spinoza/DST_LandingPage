@@ -1,0 +1,93 @@
+#Servicios{
+    margin-bottom: 25px;
+}
+
+#seccion-servicios-titulo{
+    height: 85px;
+    margin-bottom: 25px;
+}
+
+#seccion-servicios-titulo-info{
+    border-radius: 10px;
+    background: black;
+    text-align: center;
+    padding: 0px 0 0 0px;
+    text-decoration: none;
+    display: block;
+    font-weight: 700;
+    font-size: 9vh;
+    font-family: "Noto Sans", sans-serif;
+    color: white;
+}
+
+#seccion-servicios-fondo{
+    background: url(/img/topvar-image.jpg);
+    padding: 0%;
+    border-radius:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#seccion-servicios-informacion-titulo{
+    text-align: center;
+    padding: 5px 0 0 0px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 6vh;
+    font-family: "Noto Sans", sans-serif;
+    color: white;
+}
+
+#seccion-servicios-touchpay{
+    background: white;
+    border-radius: 100px;
+}
+
+#seccion-servicios-touchpay-imagenes{
+    padding: 3% 5% 3% 5%;
+}
+
+.seccion-servicios-touchpay-imagenes-texto-borde{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold; 
+    font-weight: 600;
+    font-size: 7vh;
+    -webkit-text-stroke: 2px black;
+    color: white;
+}
+
+#seccion-servicios-dispensarioMovil{
+    background: white;
+    border-radius: 100px;
+}
+
+#seccion-servicios-dispensarioMovil-imagenes{
+    padding: 3% 5% 3% 5%;
+}
+
+.seccion-servicios-dispensarioMovil-imagenes-texto-borde{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold; 
+    font-weight: 600;
+    font-size: 7vh;
+    -webkit-text-stroke: 2px black;
+    color: white;
+}
+
+#seccion-servicios-controlAcceso{
+    background: white;
+    border-radius: 100px;
+}
+
+#seccion-servicios-controlAcceso-imagenes{
+    padding: 3% 5% 3% 5%;
+}
+
+.seccion-servicios-controlAcceso-imagenes-texto-borde{
+    font-family: "Noto Sans", sans-serif;
+    font-weight: bold; 
+    font-weight: 600;
+    font-size: 7vh;
+    -webkit-text-stroke: 2px black;
+    color: white;
+}

@@ -1,0 +1,87 @@
+#Contacto{
+    margin-bottom: 25px;
+}
+
+#seccion-contacto-titulo{
+    height: 85px;
+    margin-bottom: 25px;
+}
+
+#seccion-contacto-titulo-info{
+    border-radius: 10px;
+    background: black;
+    text-align: center;
+    padding: 0px 0 0 0px;
+    text-decoration: none;
+    display: block;
+    font-weight: 700;
+    font-size: 9vh;
+    font-family: "Noto Sans", sans-serif;
+    color: white;
+}
+
+#contacto-info-datos-invitacion{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Noto Sans", sans-serif;
+    margin: 0 0 20px 0;
+}
+
+#titulo-direccion{
+    font-size: 18px;
+    font-family: "Noto Sans", sans-serif;
+    margin: 10px 0 10px 0px;
+}
+
+#contacto-info-datos-empresa-texto{
+    display: block;
+    justify-content: center;
+    margin: auto;
+    font-size: 18px;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.contacto-info-form{
+    background: rgba(255, 255, 255, 0.212);
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, .8);
+}
+
+.contacto-info-form{
+    padding: .8rem;
+    overflow: hidden;
+    color: gray;
+}
+
+.contacto-info-form label, .contacto-info-form input, .contacto-info-form textarea{
+    display: block;
+    width: 100%;
+    margin-bottom: 5px; 
+}
+
+.contacto-info-form input:not([type='submit']), .contacto-info-form textarea {
+    border: none;
+    border-bottom: 2px solid gray;
+    margin-bottom: 10px;
+    font-size: 20px;
+    outline: none;
+    color: gray;
+  }
+
+.contacto-info-form textarea {
+    min-height: 100px;
+    max-height: 100px;
+    min-width: 100%;
+    max-width: 100%;
+  }
+
+input[type='submit'] {
+    padding: 10px;
+    background: white;
+    border: 2px solid royalblue;
+    color: royalblue;
+    font-size: 20px;
+    cursor: pointer;
+    transition: .5s;
+}
