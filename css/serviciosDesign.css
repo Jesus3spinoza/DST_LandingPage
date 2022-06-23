@@ -2,12 +2,12 @@
     margin-bottom: 25px;
 }
 
-#seccion-servicios-titulo{
+.seccion-servicios-titulo{
     height: 85px;
     margin-bottom: 25px;
 }
 
-#seccion-servicios-titulo-info{
+.seccion-servicios-titulo-info{
     border-radius: 10px;
     background: black;
     text-align: center;
