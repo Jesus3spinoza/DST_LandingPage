@@ -78,7 +78,7 @@
     font-size: 20px;
 }
 
-@media (max-width: 400px){
+@media screen and (max-width: 400px){
     .seccion-nosotros-titulo{
         height: 20px;
         margin-bottom: 40px;
@@ -88,7 +88,7 @@
     }
 }
 
-@media (max-width: 600px) and (min-width: 400px){
+@media screen and (max-width: 600px) and (min-width: 400px){
     .seccion-nosotros-titulo{
         height: 30px;
         margin-bottom: 40px;
@@ -98,7 +98,7 @@
     }
 }
 
-@media (max-width: 800px) and (min-width: 600px){
+@media screen and (max-width: 800px) and (min-width: 600px){
     .seccion-nosotros-titulo{
         height: 40px;
         margin-bottom: 40px;
@@ -108,7 +108,7 @@
     }
 }
 
-@media (max-width: 1000px) and (min-width: 800px){
+@media screen and (max-width: 1000px) and (min-width: 800px){
     .seccion-nosotros-titulo{
         height: 80px;
         margin-bottom: 40px;
