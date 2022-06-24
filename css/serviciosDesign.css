@@ -95,7 +95,7 @@
 @media (max-width: 400px){
     .seccion-servicios-titulo{
         height: 20px;
-        margin-bottom: 20px;
+        margin-bottom: 25px;
     }
     .seccion-servicios-titulo-info{
         font-size: 3vh;
@@ -108,7 +108,7 @@
 @media (max-width: 600px) and (min-width: 400px){
     .seccion-servicios-titulo{
         height: 30px;
-        margin-bottom: 15px;
+        margin-bottom: 25px;
     }
     .seccion-servicios-titulo-info{
         font-size: 4vh;
@@ -121,7 +121,7 @@
 @media (max-width: 800px) and (min-width: 600px){
     .seccion-servicios-titulo{
         height: 40px;
-        margin-bottom: 20px;
+        margin-bottom: 25px;
     }
     .seccion-servicios-titulo-info{
         font-size: 5vh;
