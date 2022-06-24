@@ -2,22 +2,22 @@
     margin-bottom: 25px;
 }
 
-#seccion-nosotros-titulo{
+.seccion-nosotros-titulo{
     height: 85px;
     margin-bottom: 25px;
 }
 
-#seccion-nosotros-titulo-info{
+.seccion-nosotros-titulo-info{
     border-radius: 10px;
     background: black;
     text-align: center;
     padding: 0px 0 0 0px;
     text-decoration: none;
     display: block;
-    font-weight: 700;
-    font-size: 9vh;
     font-family: "Noto Sans", sans-serif;
     color: white;
+    font-size: 7vh;
+    font-weight: 600;
 }
 
 #nosotros-info-img{
@@ -76,4 +76,34 @@
     padding: 2%;
     text-align: justify;
     font-size: 20px;
+}
+
+@media (max-width: 600px) and (min-width: 400px){
+    .seccion-nosotros-titulo{
+        height: 30px;
+        margin-bottom: 15px;
+    }
+    .seccion-nosotros-titulo-info{
+        font-size: 4vh;
+    }
+}
+
+@media (max-width: 800px) and (min-width: 600px){
+    .seccion-nosotros-titulo{
+        height: 40px;
+        margin-bottom: 20px;
+    }
+    .seccion-nosotros-titulo-info{
+        font-size: 5vh;
+    }
+}
+
+@media (max-width: 1000px) and (min-width: 800px){
+    .seccion-nosotros-titulo{
+        height: 80px;
+        margin-bottom: 25px;
+    }
+    .seccion-nosotros-titulo-info{
+        font-size: 6vh;
+    }
 }
