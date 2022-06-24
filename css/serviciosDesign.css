@@ -35,7 +35,7 @@
     font-weight: 600;
     font-size: 6vh;
     font-family: "Noto Sans", sans-serif;
-    color: red;
+    color: white;
 }
 
 #seccion-servicios-touchpay{
@@ -101,7 +101,7 @@
         font-size: 3vh;
     }
     .seccion-servicios-informacion-titulo{
-        font-size: 1vh;
+        font-size: 3vh;
     }
 }
 
@@ -114,7 +114,7 @@
         font-size: 4vh;
     }
     .seccion-servicios-informacion-titulo{
-        font-size: 2vh;
+        font-size: 4vh;
     }
 }
 
@@ -127,7 +127,7 @@
         font-size: 5vh;
     }
     .seccion-servicios-informacion-titulo{
-        font-size: 3vh;
+        font-size: 5vh;
     }
 }
 
@@ -141,6 +141,6 @@
     }
 
     .seccion-servicios-informacion-titulo{
-        font-size: 4vh;
+        font-size: 6vh;
     }
 }
