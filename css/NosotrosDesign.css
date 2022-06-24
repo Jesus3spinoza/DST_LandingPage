@@ -81,7 +81,7 @@
 @media (max-width: 400px){
     .seccion-nosotros-titulo{
         height: 20px;
-        margin-bottom: 25px;
+        margin-bottom: 40px;
     }
     .seccion-nosotros-titulo-info{
         font-size: 3vh;
@@ -91,7 +91,7 @@
 @media (max-width: 600px) and (min-width: 400px){
     .seccion-nosotros-titulo{
         height: 30px;
-        margin-bottom: 25px;
+        margin-bottom: 40px;
     }
     .seccion-nosotros-titulo-info{
         font-size: 4vh;
@@ -101,7 +101,7 @@
 @media (max-width: 800px) and (min-width: 600px){
     .seccion-nosotros-titulo{
         height: 40px;
-        margin-bottom: 25px;
+        margin-bottom: 40px;
     }
     .seccion-nosotros-titulo-info{
         font-size: 5vh;
@@ -111,7 +111,7 @@
 @media (max-width: 1000px) and (min-width: 800px){
     .seccion-nosotros-titulo{
         height: 80px;
-        margin-bottom: 25px;
+        margin-bottom: 40px;
     }
     .seccion-nosotros-titulo-info{
         font-size: 6vh;
