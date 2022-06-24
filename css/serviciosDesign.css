@@ -103,6 +103,9 @@
     .seccion-servicios-informacion-titulo{
         font-size: 3vh;
     }
+    .seccion-servicios-controlAcceso-imagenes-texto-borde{
+        display:none;
+    }
 }
 
 @media (max-width: 600px) and (min-width: 400px){
@@ -115,6 +118,9 @@
     }
     .seccion-servicios-informacion-titulo{
         font-size: 4vh;
+    }
+    .seccion-servicios-controlAcceso-imagenes-texto-borde{
+        display:none;
     }
 }
 
@@ -129,6 +135,9 @@
     .seccion-servicios-informacion-titulo{
         font-size: 5vh;
     }
+    .seccion-servicios-controlAcceso-imagenes-texto-borde{
+        display:none;
+    }
 }
 
 @media (max-width: 1000px) and (min-width: 800px){
@@ -142,5 +151,8 @@
 
     .seccion-servicios-informacion-titulo{
         font-size: 6vh;
+    }
+    .seccion-servicios-controlAcceso-imagenes-texto-borde{
+        display:none;
     }
 }
