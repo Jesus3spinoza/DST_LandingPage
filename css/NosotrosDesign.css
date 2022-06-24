@@ -24,6 +24,7 @@
     display: flex;
     justify-content: center;
     margin: auto;
+    width: 100%;
 }
 
 .nosotros-info-img-formato{
@@ -86,6 +87,9 @@
     .seccion-nosotros-titulo-info{
         font-size: 3vh;
     }
+    #nosotros-info-img{
+        width: 65%;
+    }
 }
 
 @media (max-width: 600px) and (min-width: 400px){
@@ -95,6 +99,9 @@
     }
     .seccion-nosotros-titulo-info{
         font-size: 4vh;
+    }
+    #nosotros-info-img{
+        width: 70%;
     }
 }
 
@@ -106,6 +113,9 @@
     .seccion-nosotros-titulo-info{
         font-size: 5vh;
     }
+    #nosotros-info-img{
+        width:75%;
+    }
 }
 
 @media (max-width: 1000px) and (min-width: 800px){
@@ -115,5 +125,8 @@
     }
     .seccion-nosotros-titulo-info{
         font-size: 6vh;
+    }
+    #nosotros-info-img{
+        width: 85%;
     }
 }
