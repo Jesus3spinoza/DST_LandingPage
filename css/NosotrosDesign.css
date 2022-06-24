@@ -78,6 +78,16 @@
     font-size: 20px;
 }
 
+@media (max-width: 400px){
+    .seccion-nosotros-titulo{
+        height: 20px;
+        margin-bottom: 20px;
+    }
+    .seccion-nosotros-titulo-info{
+        font-size: 3vh;
+    }
+}
+
 @media (max-width: 600px) and (min-width: 400px){
     .seccion-nosotros-titulo{
         height: 30px;
