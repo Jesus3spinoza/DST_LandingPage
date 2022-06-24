@@ -3,19 +3,18 @@
 }
 
 .seccion-servicios-titulo{
-    height: 85px;
     margin-bottom: 25px;
+    height: 400px;
 }
 
 .seccion-servicios-titulo-info{
-    border-radius: 10px;
+    border-radius: 0px;
     background: black;
     text-align: center;
     padding: 0px 0 0 0px;
-    text-decoration: none;
-    display: block;
-    font-weight: 700;
-    font-size: 9vh;
+}
+
+.seccion-servicios-titulo-info-texto{
     font-family: "Noto Sans", sans-serif;
     color: white;
 }
@@ -90,44 +89,4 @@
     font-size: 7vh;
     -webkit-text-stroke: 2px black;
     color: white;
-}
-
-@media (max-width: 400px) and (min-width: 200px){
-    #seccion-servicios-titulo{
-        height: 50px;
-        margin-bottom: 20px;
-    }
-    #seccion-servicios-informacion-titulo{
-        font-size: 3vh;
-    }
-}
-
-@media (max-width: 600px) and (min-width: 400px){
-    #seccion-servicios-titulo{
-        height: 60px;
-        margin-bottom: 15px;
-    }
-    #seccion-servicios-informacion-titulo{
-        font-size: 4vh;
-    }
-}
-
-@media (max-width: 800px) and (min-width: 600px){
-    #seccion-servicios-titulo{
-        height: 70px;
-        margin-bottom: 20px;
-    }
-    #seccion-servicios-informacion-titulo{
-        font-size: 5vh;
-    }
-}
-
-@media (max-width: 1000px) and (min-width: 800px){
-    #seccion-servicios-titulo{
-        height: 80px;
-        margin-bottom: 25px;
-    }
-    #seccion-servicios-informacion-titulo{
-        font-size: 6vh;
-    }
 }
