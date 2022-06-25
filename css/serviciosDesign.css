@@ -21,7 +21,7 @@
 }
 
 #seccion-servicios-fondo{
-    background: url(https://jesus3spinoza.github.io/DST_LandingPage/img/topvarimage.jpg);
+    background-color: #63c5da;
     padding: 0%;
     border-radius:10px;
     margin-top: 10px;
@@ -35,7 +35,7 @@
     font-weight: 600;
     font-size: 6vh;
     font-family: "Noto Sans", sans-serif;
-    color: black;
+    color: white;
 }
 
 #seccion-servicios-touchpay{
